@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laboratorios
 
 Índice transversal de laboratorios integradores de la asignatura.
@@ -17,3 +18,6 @@ Los laboratorios con identidad propia viven en `labs/<nombre>/README.md`. Las ca
 Cada `semanas/semana-XX/` puede enlazar el laboratorio correspondiente, pero `labs/` es la fuente canónica para el contenido y archivos reproducibles del laboratorio.
 
 Esta organización cumple la regla de fuente única del canon transversal y permite consultar los laboratorios también fuera del contexto de una semana específica.
+=======
+# 🔬 Laboratorios
+>>>>>>> 6f2bf41ee24cf61e7eff46d8f73e3c3ce8ad2850

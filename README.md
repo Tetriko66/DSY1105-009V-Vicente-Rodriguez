@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DSY1105 · Desarrollo de Aplicaciones Móviles · 2026-2
 
 Repositorio de apoyo para la asignatura **DSY1105 Desarrollo de Aplicaciones Móviles**.
@@ -101,3 +102,8 @@ Consulta el contenido en [`semanas/semana-02/`](semanas/semana-02/).
 ---
 
 > AVA continúa siendo la plataforma oficial para comunicaciones, actividades y recursos institucionales que deban gestionarse desde el entorno académico.
+=======
+# Proyecto Base: DSY1105 - Programación Móvil / Kotlin
+
+Bienvenido a la plantilla base de trabajo para el curso **DSY1105**.
+>>>>>>> 6f2bf41ee24cf61e7eff46d8f73e3c3ce8ad2850

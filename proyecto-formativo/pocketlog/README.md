@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PocketLog vivo
 
 Esta carpeta contiene la **versión objetivo vigente** del proyecto formativo transversal.
@@ -36,3 +37,6 @@ NO pocketlog-semana-04/
 Las instrucciones están en `../guias/` y los hitos históricos en `../checkpoints/`.
 
 PocketLog permanece en **Kotlin de consola** durante esta etapa. No incorporar todavía Android, Compose, ViewModel, SQLite, Retrofit ni una arquitectura no exigida por el contenido real.
+=======
+# 📱 Proyecto Formativo: PocketLog
+>>>>>>> 6f2bf41ee24cf61e7eff46d8f73e3c3ce8ad2850

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Documentación transversal
 
 Este directorio funciona como índice de conocimientos y decisiones que atraviesan más de una semana de la asignatura.
@@ -29,3 +30,6 @@ guía ≠ proyecto vivo ≠ checkpoint histórico ≠ DevLog personal
 ```
 
 El DevLog registra el proceso del estudiante; PocketLog es el software que evoluciona.
+=======
+# 📚 Documentación General
+>>>>>>> 6f2bf41ee24cf61e7eff46d8f73e3c3ce8ad2850
